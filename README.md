@@ -1,5 +1,5 @@
 # Unlocked_Challenge_2
-Z by HP Unlocked Challenge 2 - Topic Modeling
+Z by HP Unlocked Challenge 2 - Topic Modeling - Special thanks to Nick Wan and Hunter Kempf for helping create this challenge! 
 
 ## The Task
 
