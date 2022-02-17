@@ -1,9 +1,13 @@
-# Unlocked_Challenge_2
+# Z by HP Unlocked Challenge 2
 Z by HP Unlocked Challenge 2 - Topic Modeling - Special thanks to Nick Wan and Hunter Kempf for helping create this challenge! 
+Watch the video tutorial here: https://youtu.be/mkOIb0EulkE
 
 ## The Task
 
 Summarize the main topics presented in the articles into the most relevant topic groups with text and visuals. This can be done using NLP tools especially Latent Dirichlet Allocation (LDA) and can provide insight into the relevant content within the articles without having to read through all of them.
+
+## What is Unlocked?
+Unlocked is an action-packed interactive film made for data scientists. Sharpen your skills and solve the data driven mystery here: https://www.hp.com/us-en/workstations/industries/data-science/unlocked-challenge.html
 
 ## The Data
 
